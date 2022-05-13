@@ -8,3 +8,6 @@
     - JIT
     - GRAD
     - VMAP
+- API Structure
+- Errors (3)
+- JAX Idiosyncrasies
