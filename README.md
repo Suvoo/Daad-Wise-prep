@@ -21,3 +21,14 @@
     - Random Numbers (Randomize)
     - Control Flow (GRAD vs JIT)
     - NaNs
+
+<ins> **Notebook 2** </ins>
+
+- Problem of State
+- Solution stateless
+- PyTree
+- Custom Pytree
+- MLP
+- Parallel training (TPUs)
+    - PMAP
+    - VMAP
