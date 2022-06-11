@@ -32,3 +32,14 @@
 - Parallel training (TPUs)
     - PMAP
     - VMAP
+    
+
+<ins> **Notebook 3** </ins>
+- MLP training on MNIST
+    - init MLP and add the predict
+    - add data Loading in Pytorch
+    - add training loop, loss fn
+- Visualization
+    - visualize MLP Weight
+    - visualize embeddings using t-SNE
+    - dead neurons
